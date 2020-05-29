@@ -11,9 +11,9 @@ const SecondPage = () => (
     <p>Welcome to page 2</p>
     <Link to="/">Go back to the homepage</Link>
     <h1>Paul's heading</h1>
-
     <h1>Thilo's heading</h1>
     <h3>This is Daniel</h3>
+    <h1>TT's heading</h1>
   </Layout>
 )
 
