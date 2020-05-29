@@ -13,6 +13,7 @@ const SecondPage = () => (
     <h1>Paul's heading</h1>
 
     <h1>Thilo's heading</h1>
+    <h3>This is Daniel</h3>
   </Layout>
 )
 
